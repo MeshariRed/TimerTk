@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center"> 
-    This Project Just For Make A Small Idea How Make Timer By Using time.
+    This is a timer application built using the Tkinter library in Python.
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@
     </a> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
     <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>
-    <img src="https://img.shields.io/github/license/MeshariRed/Timer.svg" alt="LICENSE">
-    <img src="https://img.shields.io/github/watchers/MeshariRed/Timer.svg" alt="Watching">
-    <img src="https://img.shields.io/github/forks/MeshariRed/Timer.svg" alt="Forks">
-    <img src="https://img.shields.io/github/stars/MeshariRed/Timer.svg" alt="Stars">
+    <img src="https://img.shields.io/github/license/MeshariRed/TimerTk.svg" alt="LICENSE">
+    <img src="https://img.shields.io/github/watchers/MeshariRed/TimerTk.svg" alt="Watching">
+    <img src="https://img.shields.io/github/forks/MeshariRed/TimerTk.svg" alt="Forks">
+    <img src="https://img.shields.io/github/stars/MeshariRed/TimerTk.svg" alt="Stars">
 </p>
 
 ## Project introduction
